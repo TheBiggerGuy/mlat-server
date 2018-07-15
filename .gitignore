@@ -4,3 +4,6 @@ check.sh
 __pycache__
 *.csv
 *.json
+.pytest_cache
+.coverage
+.tox

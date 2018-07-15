@@ -20,6 +20,8 @@
 Server for mlat-clients
 """
 
-__all__ = ['main']
+__all__ = ['constants', 'geodesy', 'profile']
 
-from . import main
+from . import constants
+from . import geodesy
+from . import profile

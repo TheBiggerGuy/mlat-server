@@ -1,0 +1,7 @@
+[run]
+branch = True
+source =
+    mlat
+    modes
+omit =
+    *_test.py
